@@ -1,0 +1,7 @@
+C:\Users\brook\Documents\algorithms-and-data-structures\MergeSort\MergeSort\bin\Debug\MergeSort.exe.config
+C:\Users\brook\Documents\algorithms-and-data-structures\MergeSort\MergeSort\bin\Debug\MergeSort.exe
+C:\Users\brook\Documents\algorithms-and-data-structures\MergeSort\MergeSort\bin\Debug\MergeSort.pdb
+C:\Users\brook\Documents\algorithms-and-data-structures\MergeSort\MergeSort\obj\Debug\MergeSort.csprojAssemblyReference.cache
+C:\Users\brook\Documents\algorithms-and-data-structures\MergeSort\MergeSort\obj\Debug\MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\brook\Documents\algorithms-and-data-structures\MergeSort\MergeSort\obj\Debug\MergeSort.exe
+C:\Users\brook\Documents\algorithms-and-data-structures\MergeSort\MergeSort\obj\Debug\MergeSort.pdb
